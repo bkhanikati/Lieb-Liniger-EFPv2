@@ -2,17 +2,15 @@
 
 Code and data for the numerical results in
 
-> B. A. Khanikati and A. G. Abanov, *Emptiness formation in quantum fluids: a hydrodynamic solution*, SciPost (in preparation). <!-- TODO: arXiv number / DOI -->
-
+> Alexander G. Abanov and Boris A. Khanikati, *Emptiness formation in quantum fluids: a hydrodynamic solution*.
+> 
 The solver minimizes the dispersionless hydrodynamic action of the Lieb–Liniger
-gas for the emptiness formation probability (EFP) instanton. The vacuum
-boundary is not imposed: it emerges from the minimization and is compared
-with the analytic solution. Methods are described in Appendix D of the paper
+gas for the emptiness formation probability (EFP) instanton. Methods are described in Appendix D of the paper
 and in more detail in [solver/METHODS.md](solver/METHODS.md).
 
 ## Contents
 
-| Path | What it is |
+| Path | Description|
 |---|---|
 | `solver/efp_production.py` | Command line, mesh schedule, restarts |
 | `solver/efp_production_core.py` | Discrete action, log-barrier sparse Newton minimizer |
