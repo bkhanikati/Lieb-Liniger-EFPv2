@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "c": 1.0,
+    "version": 1,
+    "table_size": 1200,
+    "table_density_max": 507.82895912777235,
+    "high_density_tail": "weak-coupling through gamma^(5/2)",
+    "maximum_local_gamma_in_tail": 0.0019691669449445376,
+    "matching_mu_relative": -4.5858379054969885e-12,
+    "matching_dmu_relative": -9.585752682687258e-12,
+    "weak_expansion_source": "https://arxiv.org/abs/1610.08912"
+  },
+  "off_grid_checks": [
+    {
+      "q": 0.0013,
+      "n": 0.0004141456009144001,
+      "mu_relative": -1.3433698597964394e-14,
+      "sound_squared_relative": 1.1950440637065185e-12,
+      "energy_relative": -4.141131881851834e-14,
+      "tail": false
+    },
+    {
+      "q": 0.071,
+      "n": 0.023666145646942062,
+      "mu_relative": -4.3769210478217246e-11,
+      "sound_squared_relative": 4.168581702046481e-09,
+      "energy_relative": -1.825062323490556e-11,
+      "tail": false
+    },
+    {
+      "q": 0.43,
+      "n": 0.18185416330651902,
+      "mu_relative": -2.637756679746417e-10,
+      "sound_squared_relative": -7.457839545921274e-08,
+      "energy_relative": -3.401153803039847e-10,
+      "tail": false
+    },
+    {
+      "q": 1.37,
+      "n": 0.9335591738853761,
+      "mu_relative": -8.525402606096577e-13,
+      "sound_squared_relative": 5.3228772500801824e-09,
+      "energy_relative": -3.031535023012566e-10,
+      "tail": false
+    },
+    {
+      "q": 4.1,
+      "n": 5.788081007490354,
+      "mu_relative": -3.177680341082123e-12,
+      "sound_squared_relative": -7.052473494084666e-09,
+      "energy_relative": -1.727165077625159e-10,
+      "tail": false
+    },
+    {
+      "q": 13.7,
+      "n": 53.21719824000706,
+      "mu_relative": -7.683609304365291e-11,
+      "sound_squared_relative": 9.30879950900021e-09,
+      "energy_relative": -7.526435030769107e-11,
+      "tail": false
+    },
+    {
+      "q": 27.3,
+      "n": 200.16402300402027,
+      "mu_relative": -2.997746495481124e-11,
+      "sound_squared_relative": -5.606339725794385e-09,
+      "energy_relative": -3.8095859800080234e-11,
+      "tail": false
+    },
+    {
+      "q": 41.0,
+      "n": 442.24190132346314,
+      "mu_relative": -1.56971102782677e-11,
+      "sound_squared_relative": 3.8108001199077535e-09,
+      "energy_relative": -1.8274159963027614e-11,
+      "tail": false
+    },
+    {
+      "q": 49.0,
+      "n": 627.1755621499506,
+      "mu_relative": -1.3620327088403883e-11,
+      "sound_squared_relative": -1.6069701125331903e-11,
+      "energy_relative": -2.73948641549282e-11,
+      "tail": true
+    },
+    {
+      "q": 60.0,
+      "n": 933.8730630968878,
+      "mu_relative": -2.537225984866609e-11,
+      "sound_squared_relative": -3.0504709869205726e-11,
+      "energy_relative": -2.9764524178688134e-11,
+      "tail": true
+    }
+  ],
+  "max_errors": {
+    "mu_relative": 2.637756679746417e-10,
+    "sound_squared_relative": 7.457839545921274e-08,
+    "energy_relative": 3.401153803039847e-10
+  }
+}

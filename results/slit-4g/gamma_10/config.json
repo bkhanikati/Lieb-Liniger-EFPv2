@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "gamma": "10",
+  "n": 64,
+  "extent": 13.0,
+  "bootstrap": 3,
+  "refinements": 2,
+  "add": 64,
+  "gap_atol": 1e-06,
+  "slit_refinements": 3,
+  "slit_add": 96
+}
