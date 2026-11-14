@@ -1,8 +1,6 @@
 # Emptiness formation in quantum fluids: hydrodynamic numerics
 
-Code and data for the numerical results in
-
-> Alexander G. Abanov and Boris A. Khanikati, *Emptiness formation in quantum fluids: a hydrodynamic solution*.
+Code and data for the numerical results in "Alexander G. Abanov and Boris A. Khanikati, *Emptiness formation in quantum fluids: a hydrodynamic solution*."
 > 
 The solver minimizes the dispersionless hydrodynamic action of the Lieb–Liniger
 gas for the emptiness formation probability (EFP) instanton. Methods are described in Appendix D of the paper
